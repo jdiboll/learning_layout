@@ -1,0 +1,21 @@
+.sandbox {
+	background: #ccc;
+	width: 500px;
+	height: 400px;
+	position: relative;
+}
+.sm {
+	color: red;
+	width: 23;
+	height 23;
+	float: right;
+
+}
+.md {
+	color: green;
+
+}
+.lg {
+	color: blue;
+
+}
